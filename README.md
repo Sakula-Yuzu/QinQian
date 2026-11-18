@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1>tyx-动态签名</h1>
+  <h1>轻签-动态签名</h1>
   <p><strong>把名字，写成自己的样子。</strong></p>
   <p>输入英文或拼音生成连笔，或描摹自己的手写签名。<br>搭配渐变、装饰与首尾动画，在浏览器里导出 MP4 或透明 GIF。</p>
 
   <p>
-    <a href="https://tangyx527.github.io/tyx-signature/"><strong>立即在线体验 ↗</strong></a>
+    <a href="https://sakula-yuzu.github.io/Qin-Qian/"><strong>立即在线体验 ↗</strong></a>
     &nbsp; · &nbsp;
     <a href="assets/showcase/signature-demo.mp4?raw=true">查看完整演示视频</a>
   </p>
